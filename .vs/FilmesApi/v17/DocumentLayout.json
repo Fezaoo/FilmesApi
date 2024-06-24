@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\filmesapi\\filmesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\filmesapi\\filmesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\filmesapi\\filmesapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\filmesapi\\filmesapi\\data\\dtos\\updatefilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\data\\dtos\\updatefilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\filmesapi\\filmesapi\\data\\dtos\\readfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\data\\dtos\\readfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\filmesapi\\filmesapi\\data\\dtos\\createfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\data\\dtos\\createfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\filmesapi\\filmesapi\\data\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\data\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\filmesapi\\filmesapi\\migrations\\filmecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\migrations\\filmecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\filmesapi\\filmesapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\filmesapi\\filmesapi\\profiles\\filmeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\profiles\\filmeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\filmesapi\\filmesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\filmesapi\\filmesapi\\migrations\\20240620112616_criandotabeladefilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\migrations\\20240620112616_criandotabeladefilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|c:\\users\\fegui\\onedrive\\\u00E1rea de trabalho\\curso em v\u00EDdeo\\c#\\projetos\\filmesapi\\filmesapi\\filmesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A6E7FE5C-07C7-4568-82EE-8ABE5922A896}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\filmesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Program.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Program.cs",
+              "ToolTip": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Program.cs",
+              "RelativeToolTip": "FilmesApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:57:19.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\appsettings.json",
+              "RelativeDocumentMoniker": "FilmesApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\appsettings.json",
+              "RelativeToolTip": "FilmesApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T20:55:31.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FilmeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Profiles\\FilmeProfile.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Profiles\\FilmeProfile.cs",
+              "ToolTip": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Profiles\\FilmeProfile.cs",
+              "RelativeToolTip": "FilmesApi\\Profiles\\FilmeProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:05:15.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Models\\Filme.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Models\\Filme.cs",
+              "ToolTip": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Models\\Filme.cs",
+              "RelativeToolTip": "FilmesApi\\Models\\Filme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:52:33.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilmeContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Migrations\\FilmeContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Migrations\\FilmeContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Migrations\\FilmeContextModelSnapshot.cs",
+              "RelativeToolTip": "FilmesApi\\Migrations\\FilmeContextModelSnapshot.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:27:28.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FilmeContext.cs",
+              "DocumentMoniker": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Data\\FilmeContext.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Data\\FilmeContext.cs",
+              "ToolTip": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Data\\FilmeContext.cs",
+              "RelativeToolTip": "FilmesApi\\Data\\FilmeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:53:07.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateFilmeDto.cs",
+              "DocumentMoniker": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Data\\Dtos\\UpdateFilmeDto.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Data\\Dtos\\UpdateFilmeDto.cs",
+              "ToolTip": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Data\\Dtos\\UpdateFilmeDto.cs",
+              "RelativeToolTip": "FilmesApi\\Data\\Dtos\\UpdateFilmeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:29:52.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReadFilmeDto.cs",
+              "DocumentMoniker": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Data\\Dtos\\ReadFilmeDto.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Data\\Dtos\\ReadFilmeDto.cs",
+              "ToolTip": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Data\\Dtos\\ReadFilmeDto.cs",
+              "RelativeToolTip": "FilmesApi\\Data\\Dtos\\ReadFilmeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:45:41.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateFilmeDto.cs",
+              "DocumentMoniker": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Data\\Dtos\\CreateFilmeDto.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Data\\Dtos\\CreateFilmeDto.cs",
+              "ToolTip": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Data\\Dtos\\CreateFilmeDto.cs",
+              "RelativeToolTip": "FilmesApi\\Data\\Dtos\\CreateFilmeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:57:47.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilmeController.cs",
+              "DocumentMoniker": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Controllers\\FilmeController.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Controllers\\FilmeController.cs",
+              "ToolTip": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Controllers\\FilmeController.cs",
+              "RelativeToolTip": "FilmesApi\\Controllers\\FilmeController.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAiwLQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:48:00.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FilmesApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FilmesApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T17:32:12.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240620112616_CriandoTabelaDeFilme.cs",
+              "DocumentMoniker": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Migrations\\20240620112616_CriandoTabelaDeFilme.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Migrations\\20240620112616_CriandoTabelaDeFilme.cs",
+              "ToolTip": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\Migrations\\20240620112616_CriandoTabelaDeFilme.cs",
+              "RelativeToolTip": "FilmesApi\\Migrations\\20240620112616_CriandoTabelaDeFilme.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBMAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:26:16.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FilmesApi.csproj",
+              "DocumentMoniker": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
+              "RelativeDocumentMoniker": "FilmesApi\\FilmesApi.csproj",
+              "ToolTip": "C:\\Users\\fegui\\OneDrive\\\u00C1rea de Trabalho\\Curso em V\u00EDdeo\\C#\\Projetos\\FilmesApi\\FilmesApi\\FilmesApi.csproj",
+              "RelativeToolTip": "FilmesApi\\FilmesApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T14:16:59.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FilmesApi</name>
+    </assembly>
+    <members>
+        <member name="M:FilmesApi.Controllers.FilmeController.AdicionaFilme(FilmesApi.Data.Dtos.CreateFilmeDto)">
+            <summary>
+            Adiciona um filme ao banco de dados
+            </summary>
+            <param name="filmeDto">Objeto com os campos necessários para criação de um filme</param>
+            <returns>IActionResult</returns>
+            <response code="201">Inserção realizada com sucesso</response>
+            <response code="500">Erro interno do servidor</response>
+        </member>
+        <member name="M:FilmesApi.Controllers.FilmeController.RecuperaFilmes(System.Int32,System.Int32)">
+            <summary>
+            Recupera um enumerável de filmes armazenados no banco de dados
+            </summary>
+            <param name="skip">O índice inicial a partir do qual os filmes serão recuperados.</param>
+            <param name="take">O número de filmes a serem recuperados a partir do índice de início.</param>
+            <returns>IActionResult</returns>
+            <response code="200">Consulta realizada com sucesso</response>
+            <response code="500">Erro interno do servidor.</response>
+        </member>
+        <member name="M:FilmesApi.Controllers.FilmeController.RecuperaFilmePorId(System.Int32)">
+            <summary>
+            Recupera um filme armazenado no banco de dados pelo seu ID.
+            </summary>
+            <param name="id">ID do filme a ser recuperado</param>
+            <returns>IActionResult</returns>
+            <response code="200">Consulta realizada com sucesso</response>
+            <response code="404">Filme não encontrado ou não existente</response>
+            <response code="500">Erro interno do servidor.</response>
+        </member>
+        <member name="M:FilmesApi.Controllers.FilmeController.AtualizarFilme(System.Int32,FilmesApi.Data.Dtos.UpdateFilmeDto)">
+            <summary>
+            Atualiza os dados de um filme armazenado no banco de dados 
+            </summary>
+            <param name="id">ID do filme a ser atualizado totalmente</param>
+            <param name="filmeDto">Objeto com os campos necessários para a atualização total dos dados de um filme</param>
+            <returns>IActionResult</returns>
+            <response code="204">Atualização total realizada com sucesso</response>
+            <response code="404">Filme não encontrado ou não existente</response>
+            <response code="500">Erro interno do servidor</response>
+        </member>
+        <member name="M:FilmesApi.Controllers.FilmeController.AtualizaFilmeParcial(System.Int32,Microsoft.AspNetCore.JsonPatch.JsonPatchDocument{FilmesApi.Data.Dtos.UpdateFilmeDto})">
+            <summary>
+            Atualiza parcialmente os dados de um filme armazenado no banco de dados 
+            </summary>
+            <param name="id">ID do filme a ser atualizado parcialmente</param>
+            <param name="patch">Objeto com os campos necessários para a atualização parcial dos dados de um filme</param>
+            <returns>IActionResult</returns>
+            <response code="204">Atualização parcial realizada com sucesso</response>
+            <response code="400">Ocorreu um erro com os dados fornecidos</response>
+            <response code="404">Filme não encontrado ou não existente</response>
+            <response code="500">Erro interno do servidor</response>
+        </member>
+        <member name="M:FilmesApi.Controllers.FilmeController.DeletaFilme(System.Int32)">
+            <summary>
+            Deleta um filme do banco de dados
+            </summary>
+            <param name="id">ID do filme a ser deletado do banco de dados</param>
+            <returns>IActionResult</returns>
+            <response code="204">Deleção dos dados realizada com sucesso</response>
+            <response code="404">Filme não encontrado ou não existente</response>
+            <response code="500">Erro interno do servidor.</response>
+        </member>
+    </members>
+</doc>
